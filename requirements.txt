@@ -5,3 +5,5 @@ pymongo>=4.6
 certifi
 scikit-learn
 pyaml
+mlflow
+dagshub

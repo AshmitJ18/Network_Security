@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajindersingh/Downloads/Network_Security/mlruns/0/df4d8b29e9274f16aab93c0ca91036aa/artifacts
+end_time: 1750577146836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df4d8b29e9274f16aab93c0ca91036aa
+run_name: caring-toad-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750577145385
+status: 3
+tags: []
+user_id: rajindersingh

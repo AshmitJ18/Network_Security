@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajindersingh/Downloads/Network_Security/mlruns/0/deaa7b28922346528e2758325e2efc83/artifacts
+end_time: 1750577145358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deaa7b28922346528e2758325e2efc83
+run_name: thundering-stag-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750577143200
+status: 3
+tags: []
+user_id: rajindersingh
