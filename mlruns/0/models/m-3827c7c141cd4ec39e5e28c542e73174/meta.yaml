@@ -1,0 +1,10 @@
+artifact_location: file:///Users/rajindersingh/Downloads/Network_Security/mlruns/0/models/m-3827c7c141cd4ec39e5e28c542e73174/artifacts
+creation_timestamp: 1751166662466
+experiment_id: '0'
+last_updated_timestamp: 1751166664701
+model_id: m-3827c7c141cd4ec39e5e28c542e73174
+model_type: null
+name: model
+source_run_id: a2e55e85055b4d99bb3c78f5731e6766
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajindersingh/Downloads/Network_Security/mlruns/0/c5184577d0e343c8864a4fba344235ae/artifacts
+end_time: 1751166666297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5184577d0e343c8864a4fba344235ae
+run_name: loud-quail-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751166664753
+status: 3
+tags: []
+user_id: rajindersingh
