@@ -7,3 +7,8 @@ scikit-learn
 pyaml
 mlflow
 dagshub
+fastapi
+uvicorn
+python-multipart
+
+
